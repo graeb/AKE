@@ -1,0 +1,11 @@
+audio/
+jax_cache/
+temp_outputs/
+.venv/
+whisper-diarization/
+whisperX/
+apikey.py
+llama.cpp/
+pyllama_data/
+.vscode/
+__pycache__/

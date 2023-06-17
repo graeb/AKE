@@ -1,0 +1,1 @@
+# Copy and paste link to youtube video and the program will parse data, make some notes and extract most important things and then send overview to your email box!
